@@ -1,10 +1,10 @@
-### Hi !
+# Hi !
 I'm Martin, still a noob developper, who practice most of his time to web codding.
-
 I also like graphism & hardware !
 
-My portfolio : https://martinjeanne.github.io/
-Contact me : martinjeanne.dev@gmail.com
+## Some info
+📕 [My portfolio](https://martinjeanne.github.io/)
+💬 Contact me : martinjeanne.dev@gmail.com
 
 <!--
 **MartinJeanne/martinjeanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
