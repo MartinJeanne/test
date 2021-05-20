@@ -1,9 +1,9 @@
 # Hi !
-I'm Martin, still a noob developper, who practice most of his time to web codding.
+I'm Martin, still a noob developper, who practice most of his time to web codding.  
 I also like graphism & hardware !
 
 ## Some info
-📕 [My portfolio](https://martinjeanne.github.io/)
+📕 [My portfolio](https://martinjeanne.github.io/)  
 💬 Contact me : martinjeanne.dev@gmail.com
 
 <!--
