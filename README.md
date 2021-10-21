@@ -1,6 +1,6 @@
 # Hi !
-I'm Martin, still a noob developper, who practice most of his time to web codding.  
-I also like graphism & hardware !
+I'm Martin, still a noob developper, who currently mostly code in JavaScript with Babylon.js !  
+I also like hardware and graphism
 
 ## Some info
 📕 [My portfolio](https://martinjeanne.github.io/)  
