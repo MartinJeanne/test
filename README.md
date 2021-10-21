@@ -4,7 +4,7 @@ I also like hardware and graphism
 
 ## Some info
 📕 [My portfolio](https://martinjeanne.github.io/)  
-💬 Contact me : martinjeanne.dev@gmail.com
+💬 martinjeanne.dev@gmail.com
 
 <!--
 **MartinJeanne/martinjeanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
