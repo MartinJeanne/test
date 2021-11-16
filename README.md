@@ -1,5 +1,5 @@
 # Hi !
-I'm Martin, a developer in formation, who currently mostly code in JavaScript with Babylon.js framework !  
+I'm Martin, a developer in formation, who currently mostly code in JavaScript with Vue.js and Babylon.js framework !  
 I also like hardware and graphism
 
 ## Some info
