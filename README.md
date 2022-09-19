@@ -3,7 +3,8 @@ I'm Martin, a junior developper in part time formation and part time entreprise!
 🔭 I'm currently working for Sinay, and i study at CESI.  
 I'm practicing:
 - Java with Spring Boot
-- JavaScript with Vuej.js  
+- JavaScript with Vuej.js
+<br>
 (I also love hardware and graphism)  
 
 ## Some info
