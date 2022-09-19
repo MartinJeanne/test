@@ -4,7 +4,7 @@ I'm Martin, a junior developper in part time formation and part time entreprise!
 I'm practicing:
 - Java with Spring Boot
 - JavaScript with Vuej.js
-<br>
+
 (I also love hardware and graphism)  
 
 ## Some info
