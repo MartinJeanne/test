@@ -1,4 +1,4 @@
-# hub-core installation
+# Installation du dépôt hub-core
 
 Installation du répertoire _hub-core_, utilisation par l’IDE _IntelliJ IDEA_ sur _Windows_, test des requête avec _Postman_
 
