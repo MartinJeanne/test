@@ -1,6 +1,6 @@
 # hub-core installation
 
-Installation du répertoire _hub-core_, utilisation par l’IDE _IntelliJ IDEA_ sur _Windows_, testage des requête avec _Postman_
+Installation du répertoire _hub-core_, utilisation par l’IDE _IntelliJ IDEA_ sur _Windows_, test des requête avec _Postman_
 
 -   [ ] Télécharger [JDK 11](https://jdk.java.net/archive/)
     
