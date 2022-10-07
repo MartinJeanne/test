@@ -67,7 +67,7 @@ Installation du dépôt _hub-core_, utilisation par l’IDE _IntelliJ IDEA_ sur 
 
 (tips : vous pouvez télécharger Terminal sur Windows store pour avoir des terminaux à plusieurs onglets)
 
-`ssh [gw-gcp.sinay.ai](<http://gw-gcp.sinay.ai/>) -L 127.0.0.1:3307:127.0.0.1:3306`
+`ssh gw-gcp.sinay.ai -L 127.0.0.1:3307:127.0.0.1:3306`
 
 `ssh gw-gcp.sinay.ai -L 0.0.0.0:8081:sk1:8081`
 
