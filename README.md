@@ -61,7 +61,7 @@ Installation du dépôt _hub-core_, utilisation par l’IDE _IntelliJ IDEA_ sur 
     
     **IMPORTANT** : Il ne faudra pas commit ce fichier
     
--   [ ] Si dans le pom.xml la dépendance d’un répertoire n’est pas trouvé, vérifier que la version de ce répertoire est la même que celle déclaré dans le pom.xml de _hub-core_
+-   (Si dans le pom.xml la dépendance d’un répertoire n’est pas trouvé, vérifier que la version de ce répertoire est la même que celle déclaré dans le pom.xml de _hub-core_)
     
 -   [ ] Lancer ces commandes dans des terminaux cmd, dans l’ordre elles permettent l’accès à la BDD, Keycloak et user-mangement :
     
