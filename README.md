@@ -73,7 +73,7 @@ Installation du dépôt _hub-core_, utilisation par l’IDE _IntelliJ IDEA_ sur 
 
 `ssh gw-gcp.sinay.ai -L 0.0.0.0:9851:platform-dev:9851`
 
--   [ ] Lancer le projet _hub-core_ en faisant clique droit _Run_ sur hub-core\src\main\java\org\sinay\hub\core\**CoreApplication.java**
+-   [ ] Lancer le projet _hub-core_ en faisant clique droit _Run_ sur hub-core\src\main\java\org\sinay\hub\core\\**CoreApplication.java**
 
 -   [ ] Sur Postman, créer une variable _token_
 
