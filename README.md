@@ -12,7 +12,7 @@ Installation du dépôt _hub-core_, utilisation par l’IDE _IntelliJ IDEA_ sur 
     
     **File → Project Structure → SDKs**
     
-    Cliquer sur **+→ Add JDK** et renseigner le chemin vers le JDK téléchargé
+    Cliquer sur **+ → Add JDK** et renseigner le chemin vers le JDK téléchargé
     
 -   [ ] Définir le JDK du projet, pour cela mettre _SDK_ au JDK 11 ajouté et _Language level_ à 11 dans :
     
@@ -73,6 +73,8 @@ Installation du dépôt _hub-core_, utilisation par l’IDE _IntelliJ IDEA_ sur 
 
 `ssh gw-gcp.sinay.ai -L 0.0.0.0:9851:platform-dev:9851`
 
+-   [ ] Lancer le projet _hub-core_ en faisant clique droit _Run_ sur hub-core\src\main\java\org\sinay\hub\core\**CoreApplication.java**
+
 -   [ ] Sur Postman, créer une variable _token_
 
 -   [ ] Sur les requêtes Postman dans _authorization_, mettre _Type_ à _bearer token_, et à droite dans _Token_ mettre _{{token}}_
@@ -82,5 +84,5 @@ Installation du dépôt _hub-core_, utilisation par l’IDE _IntelliJ IDEA_ sur 
 -   [ ] Récupérer un token via cette requête (ils sont temporaires, il faudra réexécuter la requête ultérieurement) :
 `https://sk.sinay.ai/auth/realms/sinay-dev/protocol/openid-connect/token`
 
--   [ ] Pour tester le bon fonctionnement+, récupérer les workspaces avec un HTPP GET de l’url suivante :
+-   [ ] Pour tester le bon fonctionnement, récupérer les workspaces avec un HTPP GET de l’url suivante :
     `http://127.0.0.1:8082/core/api/v1/workspaces/`
