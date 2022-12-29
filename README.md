@@ -86,3 +86,5 @@ Installation du dépôt _hub-core_, utilisation par l’IDE _IntelliJ IDEA_ sur 
 
 -   [ ] Pour tester le bon fonctionnement, récupérer les workspaces avec un HTPP GET de l’url suivante :
     `http://127.0.0.1:8082/core/api/v1/workspaces/`
+    
+    
